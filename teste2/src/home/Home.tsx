@@ -25,7 +25,7 @@ function HOME() {
               onClick={() => setDropdown((v) => !v)}
               className="text-white relative top-7 cursor-pointer"
             >
-              Meninos
+              Meninosss
             </button>
             {dropdown && (
               <div className="bg-gray-300 shadow-2xl rounded-2xl flex flex-col absolute top-15 ">
