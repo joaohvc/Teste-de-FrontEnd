@@ -130,7 +130,7 @@ function HOME() {
         <div className="w-screen h-110 mt-20 justify-center flex">
           <div className="bg-white w-70 h-90 mr-5">
             <img src="" alt="" />
-            ababa
+            
           </div>
           <div className="bg-white w-70 h-90 mr-5 ">
             <img src="" alt="" />
